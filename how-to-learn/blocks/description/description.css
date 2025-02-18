@@ -1,0 +1,44 @@
+.description {
+    display: flex;
+    justify-content: center;
+  }
+  .two-columns {
+    width: 80%;
+    display: flex;
+    margin-top: 100px;
+    
+    position:relative;
+    flex-direction: row;
+  }
+  .two-columns__brief {
+    width:175px;
+    height: 100%;
+    
+    top:0;
+    left:0;
+  }
+  .two-columns__brief__text {
+    line-height: 1.2;
+    font-size: 18px;
+    font-weight: normal;
+    color:#2f80ed;
+  }
+  .two-columns__main-text {
+    min-width: 784px;
+    width: 80%;
+    height: 100%;
+    margin-left: auto;
+  }
+  .two-columns__main-text__paragraph30bottom {
+    margin-bottom:30px;
+  }
+  .paragraph {
+    margin-top:0;
+    margin-bottom:0;
+    line-height: 34px;
+    font-size:24px;
+    font-weight: normal;
+  }
+  .paragraph__span {
+    font-weight: 600;
+  }

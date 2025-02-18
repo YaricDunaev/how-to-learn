@@ -1,0 +1,40 @@
+.oakley {
+    display:flex;
+    justify-content:center;
+    padding-top:160px;
+    background-color:#f2f2f2;
+}
+
+  .oakley__two-columns {
+    width: 80%;
+    display: flex;
+    
+    position:relative;
+    flex-direction: row;
+  }
+  .oakley__two-columns__brief {
+    width:175px;
+    height: 100%;
+    top:0;
+    left:0;
+  }
+  .oakley__two-columns__brief__text {
+    line-height: 1.2;
+    font-size: 18px;
+    font-weight: normal;
+    color:#2f80ed;
+  }
+  .oakley__two-columns__main-text {
+    min-width: 784px;
+    width: 80%;
+    height: 100%;
+    margin-left: auto;
+  }
+  .oakley__two-columns__main-text__text {
+    margin-top:0;
+    margin-bottom:0;
+    line-height: 34px;
+    font-size:24px;
+    font-weight: normal;
+  }
+  

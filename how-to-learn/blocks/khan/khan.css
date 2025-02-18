@@ -1,0 +1,71 @@
+.khan {
+    padding-top:105px;
+    background-color:#f2f2f2;
+}
+.khan_text_margin {
+    margin: 0 0 0 auto;
+}
+.khan__container {
+    width: 80%;
+    margin: 0 auto;
+}
+.khan__container__author__text {
+    line-height:42px;
+    font-size:30px;
+    font-weight:normal;
+}
+.khan__container__title {
+    margin-bottom: 50px;
+}
+.khan__container__title__text {
+    line-height:1.15;
+    font-size:60px;
+    font-weight:600;
+}
+.khan__container__quote {
+    width: 790px;
+    margin-bottom:36px;
+}
+.khan__container__quote__text {
+    line-height:34px;
+    font-size:24px;
+    font-weight:normal;
+}
+.khan__container__quote-author {
+    margin-bottom:10px;
+}
+.khan__container__quote-author__text {
+    line-height:1.15;
+    font-size:24px;
+    font-weight:600;
+}
+.khan__container__quote-author-subline {
+    margin-bottom:68px;
+}
+.khan__container__quote-author-subline__text {
+    line-height:1.15;
+    font-size:24px;
+    font-weight:normal;
+}
+.khan__container__book-container {
+    display:flex;
+}
+.khan__container__book-container__book-pic {
+    width:608px;
+    height:620px;
+    margin-right:48px;
+}
+.khan__container__book-container__book-pic__image {
+    width:100%;
+    height:100%;
+}
+
+.khan__container__book-container__buy-link__text {
+    margin-top:0;
+    margin-left:0;
+    line-height:42px;
+    font-size:30px;
+    font-weight:normal;
+    color: #2f80ed;
+    text-decoration: none;
+}
